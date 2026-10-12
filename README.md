@@ -6,7 +6,7 @@ An entirely Excel based data analysis project that started with a business task 
 PeakSport Retail is a fictional sporting-goods retailer used for this portfolio exercise. The workbook contains a synthetic multi-table retail dataset and an Excel-only analysis of sales, profitability, stores, products, promotions, customers, returns, and inventory risk. No real retailer or customer information is used.
 
 > **Workbook:**  PeakSport_Retail_Excel_Project.xlsx
-> **Dashboard** [PeakSport_Retail_Excel_Project.pdf]
+> **Dashboard** [[PeakSport_Retail_Excel_Project.pdf]](https://github.com/EnzoMendoza/PeakSport_Retail_Analysis/blob/e828f7d3fca50786453fb30589f82e10782f87ac/PeakSport_Retail_Excel_Project.pdf)
 > **Period covered:** January 2025–September 2026  
 
 ## Business question
