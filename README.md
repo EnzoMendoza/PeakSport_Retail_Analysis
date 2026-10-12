@@ -56,6 +56,17 @@ One order can contain multiple sales line items, so line-item count and distinct
 4. **Customer value:** Loyal customers have the highest revenue per purchasing customer (**$379.47**) and highest orders per customer (**2.95**). VIP customers have the highest AOV (**$133.85**), illustrating that a higher average order does not automatically mean the highest cumulative customer value.
 5. Promotion trade-off:** PROMO10 has **$11,354.00** in adjusted sales and a **20.56%** margin; PROMO09 has a **42.32%** margin on **$1,530.00** in adjusted sales. These are descriptive comparisons, not proof that the promotion caused the results.
 
+## Recommendations
+
+1. **Investigate Dallas NorthPark's margin performance.**
+  Review product mix, promotional discounts, and cost drivers to identify opportunities to improve profitability without unnecessarily sacrificing sales.
+
+2. **Investigate Austin Domain's sales and returns.** 
+  Review the products most frequently returned, customer feedback, and inventory availability. Develop a targeted improvement plan and monitor sales and return rates monthly.
+
+3. **Strengthen customer retention.**
+  Investigate how can we convert more Core and Value shoppers into Loyal and VIPs, as the latter average more per order and generate more revenue per customer.
+
 ## Excel techniques demonstrated
 
 - Data profiling and a documented cleaning log
@@ -87,3 +98,4 @@ The business analysis is Excel-based; no SQL is used in this project.
 | `PVT-Customers` | Customer segment sales, orders, AOV, and revenue per customer |
 | `Analysis Template` | KPI summary and section checklist |
 | `Dashboard` | Executive-facing KPI cards and charts |
+
